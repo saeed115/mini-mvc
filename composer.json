@@ -1,0 +1,15 @@
+{
+    "name": "dakeen/v3",
+    "authors": [
+        {
+            "name": "digeel",
+            "email": "saeedmahmoud115@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
